@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m an Information Technology student with a strong interest in software development and Artificial Intelligence. I enjoy building real-world projects using modern technologies and writing clean, efficient code.<br><br>I’ve worked on full-stack web development, AI/ML, and software projects, and I like turning ideas into practical, user-focused solutions. I’m constantly learning, experimenting, and improving my skills through hands on projects and problem solving.<br><br>Currently exploring advanced AI/ML concepts, backend development, and modern frontend frameworks while building impactful projects.
+I’m an Information Technology student with a strong interest in software development and Artificial Intelligence. I enjoy building real-world projects using modern technologies and writing clean, efficient code.<br><br>I’ve worked on full-stack web development, AI/ML, and software projects, and I like turning ideas into practical, user focused solutions. I’m constantly learning, experimenting, and improving my skills through hands on projects and problem solving.<br><br>Currently exploring advanced AI/ML concepts, backend development, and modern frontend frameworks while building impactful projects.
 
 
 ## 🌐 Socials:
